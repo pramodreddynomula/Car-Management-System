@@ -10,4 +10,4 @@ This code test consists of the implementation of a simple Python Flask API using
 
 #  Run bash script
     
-    sample msg
+    To be written
