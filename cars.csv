@@ -1,0 +1,7 @@
+make,model,year,chassis_id,id,last_updated,price
+Nissan,Micra,2004,12345A,1,2/1/2017 00:00:00,500
+Nissan,Micra,2004,12425A,2,3/1/2017 00:00:00,400
+Ford,Fiesta,2002,12345B,3,3/1/2017 00:00:00,300
+Audi,A3,,12345C,4,4/1/2017 00:00:00,
+Nissan,Micra,2004,12345D,5,5/1/2017 00:00:00,200
+Peugeot ,308,1998,12345E,6,6/1/2017 00:00:00,100
